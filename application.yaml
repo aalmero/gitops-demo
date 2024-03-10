@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://aalmero@github.com/aalmero/gitops-demo.git
+    repoURL: https://github.com/aalmero/gitops-demo.git
     targetRevision: HEAD
     path: dev
   destination: 
