@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: site1
-        image: site1:1.0.0
+        image: aalmero/site1:v1.0.0
         ports:
         - containerPort: 80
